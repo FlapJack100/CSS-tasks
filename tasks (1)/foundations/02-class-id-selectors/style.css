@@ -1,0 +1,14 @@
+p {
+    background-color: rgb(234, 125, 161);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+#higlight {
+    color: blue;
+    font-size: 36px;
+}
+.container {
+    background-color: lawngreen;
+    font-size: 24px;
+    font-weight: bold;
+}
